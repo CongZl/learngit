@@ -1,3 +1,3 @@
 Git is a distributed version control system.
 Git is free software distributed under the GPL.
-GIt has a mutable indesx called stage.
+Git has a mutable indesx called stage.
